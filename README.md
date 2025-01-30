@@ -2,7 +2,7 @@
 
 ¡Hola a tod@s! 👋 
 
-Después de mucho pensarlo, **he decidido apagar Kigo el 9 de febrero**. Llevo más de un año sin hacer actualizaciones importantes (solo arreglando bugs puntuales) porque me he centrado mucho en mis estudios. 📚
+Después de mucho pensarlo, **he decidido apagar Kigo el 19 de febrero**. Llevo más de un año sin hacer actualizaciones importantes (solo arreglando bugs puntuales) porque me he centrado mucho en mis estudios. 📚
 
 ## ❤️ **Agradecimientos**
 Quiero darles las **gracias** a todos por el apoyo desde el primer día. Kigo fue mi proyecto para aprender programación, y aunque ahora veo errores de código y falta de optimización por mi inexperiencia, ¡cumplió su propósito! 🚀
@@ -23,7 +23,7 @@ Si necesitan reemplazar a Kigo, estos bots son excelentes opciones:
   *Bot en ingles y un sistema anti-raid robusto (~900k servidores)*
 
 ## 📅 **Detalles Importantes**
-- **🗑️ Datos de servidores y usuarios**: Se eliminarán permanentemente el **9 de marzo** (1 mes después del cierre).
+- **🗑️ Datos de servidores y usuarios**: Se eliminarán permanentemente el **19 de marzo** (1 mes después del cierre).
 - **📜 Código fuente**: No habrá versión open-source por ahora.
 
 ---
